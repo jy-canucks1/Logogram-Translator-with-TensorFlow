@@ -1,10 +1,10 @@
 # Logogram_Translator_with_TensorFlow
 A Chinese Logo-gram Translating Bot with TensorFlow
 
-# Short Description
+## Short Description
 This Bot can provide the translated result whenever you input the Handwriting image file.(Only for Chrome browser users)
 
-# What you need to do to use it
+## What you need to do to use it
 You need four packages and one additional program to run this program.
 
 * Selenium
@@ -14,7 +14,7 @@ $ python -m pip install selenium
 ```
 * Webdriver
 The webdriver has different versions for each browser : Chrome, FireFox, Edge etc.
-You should check this link for it: https://www.makeuseof.com/how-to-install-selenium-webdriver-on-any-computer-with-python//newline
+You should check this link for it: https://www.makeuseof.com/how-to-install-selenium-webdriver-on-any-computer-with-python/
 (This link would not be preferable for Chrome users. The site directed here announced that it will be deprecated soon.)
 You can revise the code to run in other browser if you can handle the browser dirver.
 
@@ -42,7 +42,7 @@ Suggestion : Looking up TensorFlow offical site is good option if you have somet
 * Tkinter
 This is the package of the tools for application window. It is already installed in Python. No action for it is needed.
 
-# Something important to know
+## Something important to know
 * Input file 
 I included the file(Logogram examples) containing letter images drawn in Paint app.
 If you want to try other letters, you should draw in same way. (64X64 .jpg file drawn with white think pen and black background paint)
@@ -55,8 +55,21 @@ Example:
 
 This Bot can understand 15 Logograms: 零, 一 ,二, 三, 四, 五, 六, 七, 八, 九, 十, 百, 千, 万, 亿 
 
-For rest of chinese characters, other model is required.
+For rest of chinese characters, other model is required. 
 
-# Demo video
+## Demo video
 
 
+https://user-images.githubusercontent.com/84373345/149871458-e70de21e-27fa-4287-ab99-156850513d0f.mp4
+
+First, open the Handwritten LogoGram Translator.py and run it.
+
+Then, go File-> Open and open the . jpg file you want to read and wait few seconds. The result will appear in few seconds.
+
+If you want to erase the text in the textbox, go File->New
+
+Or, if you want to input another character, go File->Open and input the image character you want.
+
+You may want to save the text, then go File-> Save as and save the .txt file at the location you want to.
+
+If you have any ideas or issues, please contact me by email: waterloocanucks1@gmail.com

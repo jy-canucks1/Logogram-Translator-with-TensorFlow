@@ -2,7 +2,7 @@
 A Chinese Logo-gram Translating Bot with TensorFlow
 
 ## Short Description
-This Bot can provide the translated result whenever you input the Handwriting image file.(Only for Chrome browser users)
+This Bot can provide the translated result of web translator(Naver Papago) for the Handwriting image file input.(for Chrome browser users)
 
 ## What you need to do to use it
 You need four packages and one additional program to run this program. (The orginal model folder is not necessary.)

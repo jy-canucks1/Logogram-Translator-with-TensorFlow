@@ -54,7 +54,7 @@ This is the package of the tools for application window. It is already installed
 
 ## Something important to know
 * Input file 
-* 
+
 I included the file(Logogram examples) containing letter images drawn in Paint app.
 
 If you want to try other letters, you should draw in same way. (64X64 .jpg file drawn with white think pen and black background paint)

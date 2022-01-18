@@ -14,7 +14,7 @@ $ python -m pip install selenium
 ```
 * Webdriver
 The webdriver has different versions for each browser : Chrome, FireFox, Edge etc.
-You should check this link for it: https://www.makeuseof.com/how-to-install-selenium-webdriver-on-any-computer-with-python/
+You should check this link for it: https://www.makeuseof.com/how-to-install-selenium-webdriver-on-any-computer-with-python//newline
 (This link would not be preferable for Chrome users. The site directed here announced that it will be deprecated soon.)
 You can revise the code to run in other browser if you can handle the browser dirver.
 

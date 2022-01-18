@@ -72,4 +72,6 @@ Or, if you want to input another character, go File->Open and input the image ch
 
 You may want to save the text, then go File-> Save as and save the .txt file at the location you want to.
 
+
+## Contact me
 If you have any ideas or issues, please contact me by email: waterloocanucks1@gmail.com

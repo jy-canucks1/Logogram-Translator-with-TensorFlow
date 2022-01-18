@@ -59,7 +59,7 @@ I included the file(Logogram examples) containing letter images drawn in Paint a
 
 If you want to try other letters, you should draw in same way. (64X64 .jpg file drawn with white think pen and black background paint)
 
-Example:
+Examples:
 
 ![image1](https://user-images.githubusercontent.com/84373345/149867828-362da2ea-446b-44bb-85e4-8423750df80f.jpg) 
 ![image2](https://user-images.githubusercontent.com/84373345/149873155-1294c49f-3c69-4db8-8db4-8a5208c5d5a8.jpg)

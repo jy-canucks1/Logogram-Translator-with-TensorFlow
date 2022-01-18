@@ -1,3 +1,4 @@
+# Handwriting Recognition Machine Learning (CNN and Chinese Logogram)
 This is the original Handwriting Recognition Model I implanted in the translating bot.
 
 This attached "-chineseMNIST.csv" file is the one that the original one shuffled by Bash.

@@ -54,6 +54,7 @@ Example:
 * What it can recognize
 
 This Bot can understand 15 Logograms: 零, 一 ,二, 三, 四, 五, 六, 七, 八, 九, 十, 百, 千, 万, 亿 
+
 For rest of chinese characters, other model is required.
 
 # Demo video

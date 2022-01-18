@@ -8,24 +8,33 @@ This Bot can provide the translated result whenever you input the Handwriting im
 You need four packages and one additional program to run this program.
 
 * Selenium
+
 You need this to run the webdriver.
 ```
 $ python -m pip install selenium
 ```
 * Webdriver
+
 The webdriver has different versions for each browser : Chrome, FireFox, Edge etc.
+
 You should check this link for it: https://www.makeuseof.com/how-to-install-selenium-webdriver-on-any-computer-with-python/
+
 (This link would not be preferable for Chrome users. The site directed here announced that it will be deprecated soon.)
+
 You can revise the code to run in other browser if you can handle the browser dirver.
 
+
 Because I am Chrome User, this Bot is for Chrome Users 
+
 and if you are as well, check your version of Chrome and go to this link to install: https://sites.google.com/chromium.org/driver/
 
 This tutorial setting instruction is the best way to follow. Otherwise, please consider changing the webdriver path
 Tutorial video for Chrome Webdriver: https://www.youtube.com/watch?v=dz59GsdvUF8
 
+
 * Tensorflow and NumPy
 This is the main part of this program. The package is required for loading the saved Keras model.
+
 The version of TensorFlow for this Bot is 2.7.0
 
 TensorFlow installation
@@ -44,7 +53,9 @@ This is the package of the tools for application window. It is already installed
 
 ## Something important to know
 * Input file 
+* 
 I included the file(Logogram examples) containing letter images drawn in Paint app.
+
 If you want to try other letters, you should draw in same way. (64X64 .jpg file drawn with white think pen and black background paint)
 
 Example:

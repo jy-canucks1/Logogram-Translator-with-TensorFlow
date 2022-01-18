@@ -89,7 +89,9 @@ You may want to save the text, then go File-> Save as and save the .txt file at 
 ## Future Plan
 I am thinking of creating .exe file but need to figure out the Pyinstaller issues.
 
-Currently, TensorFlow packages are not applied well when put all the things into the .exe file.
+Currently, TensorFlow packages are not applied well in .exe file generally. 
+
+Link: https://github.com/pyinstaller/pyinstaller/issues?q=is%3Aissue+tensorflow
 
 If there is no option to solve this problem, I have to consider C++ version of this project.
 

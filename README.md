@@ -24,7 +24,9 @@ You should check this link for it: https://www.makeuseof.com/how-to-install-sele
 You can revise the code to run in other browser if you can handle the browser dirver.
 
 
-Because I am Chrome User, this Bot is for Chrome Users and if you are as well, check your version of Chrome and go to this link to install: https://sites.google.com/chromium.org/driver/
+Because I am Chrome User, this Bot is for Chrome Users and if you are as well, 
+
+please check your version of Chrome and go to this link to install: https://sites.google.com/chromium.org/driver/
 
 This tutorial setting instruction is the best way to follow. Otherwise, please consider changing the webdriver path
 

@@ -29,6 +29,7 @@ Because I am Chrome User, this Bot is for Chrome Users
 and if you are as well, check your version of Chrome and go to this link to install: https://sites.google.com/chromium.org/driver/
 
 This tutorial setting instruction is the best way to follow. Otherwise, please consider changing the webdriver path
+
 Tutorial video for Chrome Webdriver: https://www.youtube.com/watch?v=dz59GsdvUF8
 
 

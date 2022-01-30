@@ -50,6 +50,7 @@ $ pip install numpy
 Suggestion : Looking up TensorFlow offical site is good option if you have something to figure out regarding loading model
 
 * Tkinter
+
 This is the package of the tools for application window. It is already installed in Python. No action for it is needed.
 
 ## Something important to know
